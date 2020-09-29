@@ -2,10 +2,10 @@
 
 # Golang-Install
 # Project Home Page:
-# https://github.com/skiy/golang-install
-#
-# Author: Skiy Chan <dev@skiy.net>
-# Link: https://skiy.net
+# https://github.com/wxfyes/golang
+# youtube: https://www.youtube.com/wangxf
+# Author: xiao feng <wxf@wxf2088.xyz>
+# Link: https://wxf2088.xyz
 
 # Script file name
 SCRIPT_NAME=$0
@@ -242,9 +242,9 @@ printf "
 ###############################################################
 ###  Golang Install
 ###
-###  Author:  Skiy Chan <dev@skiy.net>
-###  Link:    https://www.skiy.net 
-###  Project: https://github.com/skiy/golang-install
+###  Author:  xiao feng <wxf@wxf2088.xyz>
+###  Link:    https://wxf2088.xyz
+###  youtube: https://www.youtube.com/wangxf
 ###############################################################
 \n"
 }
